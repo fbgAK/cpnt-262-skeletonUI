@@ -1,0 +1,5 @@
+/* Global Styles */
+/* Global design tokens for consistent styling using SkeletonUI  */
+:root {
+  --skeleton-text: #e1e1e1;               
+}
