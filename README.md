@@ -10,7 +10,7 @@ Akash Samra
 
 
 ## Search research notes/code journal
-I could have done better overall but it was a frustrating challenge which I learnt and gained knowledge from. It was frustrating trying to deploy this onto local host or netlify, I got it working on local host but then the external pages were not working here was my trail and error.
+I could have done better overall but it was a frustrating challenge which I learnt and gained knowledge from. It was frustrating trying to deploy this onto local host or netlify, I got it working on local host but then the external pages were not working and once I tried to deploy onto netlify it would take a very long time trying to configure the site, which was sign something is wrong, I feel like I should have tried to hand this in while parts were working more before I started playing around with too much code, heres my thought process, search quiries and basically was my trail and error.
 I kept getting the error: 'No routes found. If you are using a custom src/routes directory, make sure it is specified in svelte.config.js'
 in tne terminal when running dev. This was persistent for some time while working on this assignment. Im sure it was a routing path issue, below ive linked websites I used to try to figure out what was wrong.
 
