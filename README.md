@@ -6,7 +6,7 @@ Akash Samra
 
 
 ## Link to Deployed site
-[Link to netlify](link-to-netlify-goes-here)
+[Link to netlify](https://profound-dolphin-5d095c.netlify.app/)
 
 
 ## Search research notes/code journal
